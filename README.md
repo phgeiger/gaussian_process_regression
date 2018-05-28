@@ -1,7 +1,7 @@
 Introduction
 ===
 
-This is an implementation of Gaussian process regression in Python.
+This is an implementation of Gaussian process regression in Python 3.
 
 Content
 ===
