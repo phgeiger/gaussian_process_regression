@@ -1,7 +1,7 @@
 Introduction
 ===
 
-This is an implementation of the Gaussian process regression framework in Python 3.
+This is an implementation of the Gaussian process regression framework in Python 3. It is based on Carl Rasmussen's book "Gaussian Processes for Machine Learning".
 
 Content
 ===
